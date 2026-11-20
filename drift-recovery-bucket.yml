@@ -1,7 +1,7 @@
 apiVersion: s3.aws.m.upbound.io/v1beta1
 kind: Bucket
 metadata:
-  name: drift-recovery-<your-initials>
+  name: drift-recovery-eoc1048
   namespace: drift-recovery
 spec:
   forProvider:
